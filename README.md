@@ -1,2 +1,5 @@
-# ml-with-python-coursera-IBM
-Machine Learning with Python by IBM, Coursera course
+# Machine Learning with Python - Coursera course by IBM
+
+Notebooks, datasets and final project 👨‍💻
+
+
