@@ -1,4 +1,4 @@
-# Data Science Professional Certificate by IBM (offered through Coursera)
+# Data Science Professional Certificate by IBM @Coursera
 
 Notebooks, datasets and final projects for the code-oriented courses 👨‍💻
 
