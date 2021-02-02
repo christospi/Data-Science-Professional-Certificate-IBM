@@ -2,7 +2,7 @@
 
 Notebooks, datasets and final project 👨‍💻
 
-Certificate: TBU https://www.coursera.org/account/accomplishments/certificate/SDZATUMJRHDE
+Certificate: https://www.coursera.org/account/accomplishments/certificate/SDZATUMJRHDE
 
 Course 4 of 9 in the IBM Data Science Specialization.
 
