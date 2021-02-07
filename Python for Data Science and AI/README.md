@@ -2,8 +2,6 @@
 
 Notebooks, datasets and final project 👨‍💻
 
-Certificate: https://www.coursera.org/account/accomplishments/certificate/SDZATUMJRHDE
-
 Course 4 of 9 in the IBM Data Science Specialization.
 
 Hands-on tutorials and videos on basic Python concepts and libraries, essential for Data Science.
